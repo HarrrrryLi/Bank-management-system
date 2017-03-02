@@ -1,0 +1,8 @@
+﻿Account_FengruLi.obj : error LNK2019: unresolved external symbol _mxGetPr referenced in function "public: void __thiscall StockAccount::view_graph(void)" (?view_graph@StockAccount@@QAEXXZ)
+Account_FengruLi.obj : error LNK2019: unresolved external symbol _mxCreateDoubleMatrix_730 referenced in function "public: void __thiscall StockAccount::view_graph(void)" (?view_graph@StockAccount@@QAEXXZ)
+Account_FengruLi.obj : error LNK2019: unresolved external symbol _engOpen referenced in function "public: void __thiscall StockAccount::view_graph(void)" (?view_graph@StockAccount@@QAEXXZ)
+Account_FengruLi.obj : error LNK2019: unresolved external symbol _engPutVariable referenced in function "public: void __thiscall StockAccount::view_graph(void)" (?view_graph@StockAccount@@QAEXXZ)
+C:\Program Files\MATLAB\R2016a\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files\MATLAB\R2016a\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files\MATLAB\R2016a\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+Z:\Program\Program Finance\Final Project\FinalProject_FengruLi\Debug\FinalProject_FengruLi.exe : fatal error LNK1120: 4 unresolved externals

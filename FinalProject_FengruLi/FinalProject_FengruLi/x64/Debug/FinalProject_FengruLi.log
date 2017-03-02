@@ -1,0 +1,4 @@
+﻿  Account_FengruLi.cpp
+z:\program\program finance\final project\finalproject_fengruli\finalproject_fengruli\account_fengruli.cpp(189): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject_FengruLi.vcxproj -> Z:\Program\Program Finance\Final Project\FinalProject_FengruLi\x64\Debug\FinalProject_FengruLi.exe
+  FinalProject_FengruLi.vcxproj -> Z:\Program\Program Finance\Final Project\FinalProject_FengruLi\x64\Debug\FinalProject_FengruLi.pdb (Full PDB)

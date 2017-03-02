@@ -1,0 +1,5 @@
+Symbol  Number  
+MSFT    200.00  
+GOOG    7.00    
+GS      10.00   
+YHOO    100.00  
